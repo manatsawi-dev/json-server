@@ -1,0 +1,8 @@
+{
+    "name": "jsonserver",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "server-blog": "json-server --watch ./json_servers/blog.json --port 9120"
+    }
+}
