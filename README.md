@@ -3,7 +3,7 @@ embed components
 1. screen loading component
 2. modal alert component
 
-# Step-To-Step
+# Step-By-Step
 **1. import component withScreenBase**
 ```Javascript
 import withScreenBase from '../../HOC/with-base/with-base';
